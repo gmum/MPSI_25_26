@@ -1,6 +1,6 @@
 # Matematyczne Podstawy Sztucznej Inteligencji (MPSI)
 
-Repozytorium przedmiotu „Matematyczne Podstawy Sztucznej Inteligencji” prowadzonego na Uniwersytecie Jagiellońskim w 2025 roku. Strona jest hostowana przez grupę badawczą GMUM zajmującą się uczeniem maszynowym.
+Repozytorium przedmiotu „Matematyczne Podstawy Sztucznej Inteligencji” prowadzonego na Uniwersytecie Jagiellońskim w 2026 roku bazującego na [repozytorium](https://github.com/gmum/MPSI) z poprzedniego roku. Strona jest hostowana przez grupę badawczą GMUM zajmującą się uczeniem maszynowym.
 
 ### Cel
 - Zrozumienie matematycznych podstaw Sztucznej Inteligencji (SI), ze szczególnym naciskiem na zrozumienie w jaki sposób i dlaczego są one używane
